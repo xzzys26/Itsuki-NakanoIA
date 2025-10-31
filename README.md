@@ -43,20 +43,6 @@ Itsuki Nakano IA es un bot de WhatsApp inspirado en **Itsuki Nakano**, la quinti
 
 </details>
 
-## **`MAKI HOSTING`**
-<a href="https://dash.makihost.tuwebsite.site"><img src="https://qu.ax/gekUC.jpg" height="100px"></a>
-</details>
-</details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-
-- **Dashboard:** [Aquí](https://dash.makihost.tuwebsite.site)
-- **Panel de Servicios:** [Aquí](https://panel.makihost.tuwebsite.site) 
-- **Grupo de soporte:** [entrar](https://chat.whatsapp.com/Kjb0w8bpgTx4LMsBcEjReZ?mode=wwt)
-- **Contacto de soporte:** [Contactar](https://wa.me/573235915041) 
-- **Canal de actualizaciones:** [Aquí](https://whatsapp.com/channel/0029VbBkjlfLSmbWl3SH6737)
-
-
 
 ## `✨ Características Principales`
 
