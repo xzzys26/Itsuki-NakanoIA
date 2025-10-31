@@ -179,13 +179,3 @@ npm start
 ```
 
 ## `Sitio web`: [¡Aqui!](xzys-ultra.vercel.app)
-
-## `INFO HOST 💻`
-
-JSCloud
-JSCloud es una plataforma de hosting gratuita y de pago, es fácil de usar para proyectos de JavaScript,PHP y Python.
-
-Lanza tus aplicaciones en la nube en segundos, sin configuraciones complicadas ni costos ocultos. Perfecto para desarrolladores, estudiantes o cualquier persona que quiera desplegar proyectos rápidamente.
-
-Comienza Desde Ahora 🌟 [JSCloud Aqui](https://dash.twb.qzz.io)
-
